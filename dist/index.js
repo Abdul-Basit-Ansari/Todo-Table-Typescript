@@ -57,3 +57,4 @@ function createTable() {
     });
 }
 createTable();
+//# sourceMappingURL=index.js.map
